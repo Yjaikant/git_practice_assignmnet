@@ -7,4 +7,4 @@ for(let i=1;i<=num;i++){
 	count++;
 	}
 }
-(count==2)?console.log("It is a Prime Number"):console.log("It is not a Prime Number");
+(c==2)?console.log("It is a Prime Number"):console.log("It is not a Prime Number");
